@@ -97,5 +97,3 @@ This project is a no-code Retrieval-Augmented Generation (RAG) chatbot system bu
 
 ---
 
-## 📁 File Structure
-
